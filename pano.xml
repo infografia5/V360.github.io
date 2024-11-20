@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20954" hassounds="1" start="node1" appversion="7.1.5">
+  <panorama id="node1" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" width="875" height="875" levelingroll="0">
+      <level preload="0" width="875" height="875" predecode="0"/>
+      <level preload="1" width="437" height="437" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-180.326" fovmode="2">
+      <start projection="4" tilt="-1.51267" fov="108.174" pan="-3.05935"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="330" scaletofit="1" fovfisheye="360" tilt="90" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="" copyright="" info="" customnodeid="" description="" source="" nodeid="node1" comment="" tags="render|Pano2VR7" datetime="" longitude="" title="Salon" heading="-180.326" author="">
+      <mapcoords y="-0.543823" x_floorplan_percent="51.7647" mapid="ViviendaD" x="0.966797" y_floorplan_percent="29.4533"/>
+    </userdata>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label wordwrap="1" background="1" backgroundalpha="1" enabled="1" borderalpha="1" border="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1" width="180" textalpha="1" height="20" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0"/>
+      <hotspot id="Hall" skinid="ht_node" tilt="4.53" title="Hall" target="" pan="-340.59" description="" url="{node2}"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" level="1.000" id="_background" ambientlevel="0.000" field="90.000" loop="1" pansize="10.000" startmutedmobile="0" mode="0" tilt="-1.000" nodechangekeep="1" pan="-1.000">
+        <source mono="0" url="media/Happy Life FREDJI No Copyright Music.mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomout="0" type="crossdissolve" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <autorotate nodefilter="" enabled="1" noderandom="1" horizonfromdefview="0" delay="5.00" speed="0.100" nodedelay="0.00" returntohorizon="0.000" startloaded="0" useanimation="0"/>
+    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
+    <flyintransition speed="3.00" enabled="1"/>
+    <animation clipsrandom="1" animsequence="Animation01" syncanimationwithvideo="1" useinautorotation="0">
+      <clip cliptitle="Clip01" nextclipstartview="0/0/100/4" nextcliptitle="Clip01" animtitle="Animation01" transitiontype="0" nodeid="" nextclipnodeid="node1" length="100" animtype="0">
+        <keyframe property="0" type="0" valuestring="" additionaltrackid="" time="0" transitiontime="0" value="0"/>
+        <keyframe property="1" type="0" valuestring="" additionaltrackid="" time="0" transitiontime="0" value="0"/>
+        <keyframe property="2" type="0" valuestring="" additionaltrackid="" time="0" transitiontime="0" value="100"/>
+        <keyframe property="3" type="0" valuestring="" additionaltrackid="" time="0" transitiontime="0" value="4"/>
+        <keyframe property="0" bezierouttime="10045" additionaltrackid="" type="2" valuestring="" bezierintime="31.5" time="45" bezierinvalue="83.42" transitiontime="0" bezieroutvalue="83.42" value="83.42"/>
+      </clip>
+    </animation>
+    <control lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" lockedwheel="0" simulatemass="1" rubberband="0" contextvr="0" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" contextfullscreen="1">
+      <menulink text="WEB" url="www.miradordelpinar.es"/>
+    </control>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" width="875" height="875" levelingroll="0">
+      <level preload="0" width="875" height="875" predecode="0"/>
+      <level preload="1" width="437" height="437" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-49.2096" fovmode="2">
+      <start projection="4" tilt="0.0474831" fov="100" pan="-141.653"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="330" scaletofit="1" fovfisheye="360" tilt="90" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="" copyright="" info="" customnodeid="" description="" source="" nodeid="node2" comment="" tags="render" datetime="" longitude="" title="Hall" heading="-49.2096" author="">
+      <mapcoords y="-1.203" x_floorplan_percent="65.2941" mapid="ViviendaD" x="1.21948" y_floorplan_percent="65.1543"/>
+    </userdata>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label wordwrap="1" background="1" backgroundalpha="1" enabled="1" borderalpha="1" border="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1" width="180" textalpha="1" height="20" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0"/>
+      <hotspot id="Salon" skinid="ht_node" tilt="-2.54" title="Salon" target="" pan="-10.61" description="" url="{node1}"/>
+      <hotspot id="Dormitorio Principal" skinid="ht_node" tilt="-1.79" title="Dormitorio Ppal" target="$fwd" pan="-273.61" description="" url="{node3}"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" level="1.000" id="_background" ambientlevel="0.000" field="90.000" loop="1" pansize="10.000" startmutedmobile="0" mode="0" tilt="-1.000" nodechangekeep="1" pan="-1.000">
+        <source mono="0" url="media/Happy Life FREDJI No Copyright Music.mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomout="0" type="crossdissolve" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <autorotate nodefilter="" enabled="1" noderandom="1" horizonfromdefview="0" delay="5.00" speed="0.100" nodedelay="0.00" returntohorizon="0.000" startloaded="0" useanimation="0"/>
+    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
+    <flyintransition speed="3.00" enabled="1"/>
+    <animation clipsrandom="1" animsequence="Animation01" syncanimationwithvideo="1" useinautorotation="0"/>
+    <control lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" lockedwheel="0" simulatemass="1" rubberband="0" contextvr="0" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" contextfullscreen="1">
+      <menulink text="WEB" url="www.miradordelpinar.es"/>
+    </control>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" width="875" height="875" levelingroll="0">
+      <level preload="0" width="875" height="875" predecode="0"/>
+      <level preload="1" width="437" height="437" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-180.939" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="330" scaletofit="1" fovfisheye="360" tilt="90" fov="140" pan="360"/>
+    </view>
+    <userdata latitude="" copyright="" info="" customnodeid="" description="" source="" nodeid="node3" comment="" tags="Pano2VR7|Render" datetime="" longitude="" title="Dormitorio Ppal" heading="-180.939" author="">
+      <mapcoords y="-1.48865" x_floorplan_percent="31.1765" mapid="ViviendaD" x="0.582275" y_floorplan_percent="80.6248"/>
+    </userdata>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label wordwrap="1" background="1" backgroundalpha="1" enabled="1" borderalpha="1" border="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1" width="180" textalpha="1" height="20" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0"/>
+      <hotspot id="Point01" skinid="ht_node" tilt="0.03" title="Hall" target="$fwd" pan="-265.28" description="" url="{node2}"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" level="1.000" id="_background" ambientlevel="0.000" field="90.000" loop="1" pansize="10.000" startmutedmobile="0" mode="0" tilt="-1.000" nodechangekeep="1" pan="-1.000">
+        <source mono="0" url="media/Happy Life FREDJI No Copyright Music.mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomout="0" type="crossdissolve" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="40"/>
+    <autorotate nodefilter="" enabled="1" noderandom="1" horizonfromdefview="0" delay="5.00" speed="0.100" nodedelay="0.00" returntohorizon="0.000" startloaded="0" useanimation="0"/>
+    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
+    <flyintransition speed="3.00" enabled="1"/>
+    <animation clipsrandom="1" animsequence="Animation01" syncanimationwithvideo="1" useinautorotation="0"/>
+    <control lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" lockedwheel="0" simulatemass="1" rubberband="0" contextvr="0" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" hideabout="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" contextfullscreen="1">
+      <menulink text="WEB" url="www.miradordelpinar.es"/>
+    </control>
+  </panorama>
+  <masternode>
+    <userdata comment="" tags="" title="Mirador del Pinar" copyright="" author="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01">
+        <sequenceelement index="0" startview="0/0/100/4" cliptitle="Clip01" nodeid="node1"/>
+      </sequence>
+    </animationsequences>
+  </masternode>
+  <map tileformat="png" bgcolor="rgba(255, 255, 255, 0)" id="ViviendaD" index="0" type="file" floorplannorth="0" zoomlevels="1" title="TipoD" width="2720" transparent="1" crispedges="1" height="2689"/>
+</tour>
